@@ -1,8 +1,7 @@
 # Online Code Compiler(NitishCodeCompiler)
+![Screenshot 2025-02-28 160747](https://github.com/user-attachments/assets/1af474b9-d952-4a46-907a-7f00b23fbb4e)
 
 This project is a simple **online code compiler** built using **Node.js, Express, and Compilex**. It allows users to write and execute code in **C++, Java, and Python** directly from a web interface.
-![Uploading image.png…]()
-
 
 ## Features
 - Supports **C++, Java, and Python** code execution
