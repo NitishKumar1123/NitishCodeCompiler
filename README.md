@@ -23,7 +23,7 @@ Make sure you have **Node.js** installed. You can download it from [Node.js Offi
 ### Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/online-code-compiler.git
+   git clone https://github.com/NitishKumar1123/online-code-compiler.git
    cd online-code-compiler
    ```
 2. Install dependencies:
