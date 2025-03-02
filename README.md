@@ -23,8 +23,8 @@ Make sure you have **Node.js** installed. You can download it from [Node.js Offi
 ### Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/NitishKumar1123/online-code-compiler.git
-   cd online-code-compiler
+   git clone https://github.com/NitishKumar1123/NitishCodeCompiler.git
+   cd NitishCodeCompiler
    ```
 2. Install dependencies:
    ```sh
@@ -60,12 +60,14 @@ Make sure you have **Node.js** installed. You can download it from [Node.js Offi
 
 ## Project Structure
 ```
-/online-code-compiler
-│── app.js               # Main server file
-│── package.json         # Node.js dependencies
-│── /codemirror-5.65.18  # CodeMirror for frontend
-│── /views               # HTML and frontend assets
-│── /temp                # Temporary files (compiled code)
+/NitishCodeCompiler
+│── /codemirror-5.65.18        # Contains frontend static files
+│── /node_modules              # HTML and template files
+│── Api.js                     # Express.js route handlers
+│── index.html                 # Main backend logic
+│── package-lock.json          # Project dependencies
+│── package.json
+│── README.md                  # Project documentation
 ```
 
 ## Security Considerations
