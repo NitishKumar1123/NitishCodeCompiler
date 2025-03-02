@@ -36,7 +36,7 @@ Make sure you have **Node.js** installed. You can download it from [Node.js Offi
    ```
 4. Open your browser and visit:
    ```
-   http://localhost:8000
+   https://nitishcodecompiler.netlify.app/
    ```
 
 ## API Endpoints
